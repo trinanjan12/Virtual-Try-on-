@@ -5,3 +5,4 @@
 2. Write code to train with single product and model image pair for scenarios when the 2 different images of the same clothes is not available 
 3. Train on different opensource dataset to check the performance
    
+## The code is heavily borrowed from the original repo and pix2pix/pix2pixhd. 
